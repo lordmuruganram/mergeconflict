@@ -1,1 +1,1 @@
-city:bangalore,chennai
+city:bengal
